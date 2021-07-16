@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+dunstify -u low -i /usr/share/icons/Archcraft/actions/32/javascript_logo.svg "Javascript Docs" "Make your search based on <b>Javascript</b> language" &
+midori -a https://developer.mozilla.org/pt-BR/docs/Web/JavaScript

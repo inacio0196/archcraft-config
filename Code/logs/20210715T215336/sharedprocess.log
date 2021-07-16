@@ -1,0 +1,15 @@
+[2021-07-15 21:53:47.580] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-07-15 21:53:47.581] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210715T015707'
+[2021-07-15 21:54:07.582] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-07-15 21:54:07.584] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-07-15 21:54:17.580] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-07-16 00:26:13.512] [sharedprocess] [warning] Resolved variables received without matching request 11
+[2021-07-16 00:26:13.537] [sharedprocess] [warning] Resolved variables received without matching request 12
+[2021-07-16 00:26:13.588] [sharedprocess] [warning] Resolved variables received without matching request 13
+[2021-07-16 00:26:13.764] [sharedprocess] [warning] Resolved variables received without matching request 14
+[2021-07-16 00:26:13.861] [sharedprocess] [warning] Resolved variables received without matching request 15
+[2021-07-16 00:26:15.397] [sharedprocess] [warning] Resolved variables received without matching request 16
+[2021-07-16 00:26:15.399] [sharedprocess] [warning] Resolved variables received without matching request 17
+[2021-07-16 00:26:15.402] [sharedprocess] [warning] Resolved variables received without matching request 18
+[2021-07-16 00:26:15.405] [sharedprocess] [warning] Resolved variables received without matching request 19
+[2021-07-16 00:26:15.408] [sharedprocess] [warning] Resolved variables received without matching request 20

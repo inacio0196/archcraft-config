@@ -1,0 +1,6 @@
+2021/07/16-00:14:38.923 166f0 Creating DB /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.guaruja.sp.gov.br_0.indexeddb.leveldb since it was missing.
+2021/07/16-00:14:38.929 166f0 Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.guaruja.sp.gov.br_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/16-00:16:19.087 166f0 Level-0 table #5: started
+2021/07/16-00:16:19.090 166f0 Level-0 table #5: 8859 bytes OK
+2021/07/16-00:16:19.094 166f0 Delete type=0 #3
+2021/07/16-00:16:19.094 166f0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

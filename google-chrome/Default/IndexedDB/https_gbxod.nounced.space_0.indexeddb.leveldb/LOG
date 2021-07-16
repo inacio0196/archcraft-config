@@ -1,0 +1,6 @@
+2021/07/06-18:12:39.305 2456 Creating DB /home/rafael/.config/google-chrome/Default/IndexedDB/https_gbxod.nounced.space_0.indexeddb.leveldb since it was missing.
+2021/07/06-18:12:39.314 2456 Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_gbxod.nounced.space_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/06-18:12:42.574 2456 Level-0 table #5: started
+2021/07/06-18:12:42.577 2456 Level-0 table #5: 842 bytes OK
+2021/07/06-18:12:42.581 2456 Delete type=0 #3
+2021/07/06-18:12:42.581 2456 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

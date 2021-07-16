@@ -1,0 +1,6 @@
+2021/07/04-01:33:12.799 1633d Creating DB /home/rafael/.config/google-chrome/Default/IndexedDB/https_react-native.rocketseat.dev_0.indexeddb.leveldb since it was missing.
+2021/07/04-01:33:12.808 1633d Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_react-native.rocketseat.dev_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/04-01:34:02.557 160f8 Level-0 table #5: started
+2021/07/04-01:34:02.560 160f8 Level-0 table #5: 4287 bytes OK
+2021/07/04-01:34:02.563 160f8 Delete type=0 #3
+2021/07/04-01:34:02.564 160f8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

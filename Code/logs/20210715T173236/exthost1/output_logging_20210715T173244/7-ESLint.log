@@ -1,0 +1,6 @@
+[Info  - 17:32:44] ESLint server is starting
+[Info  - 17:32:47] ESLint server running in node v14.16.0
+[Info  - 17:32:47] ESLint server is running.
+[Info  - 17:32:49] ESLint library loaded from: /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/node_modules/eslint/lib/api.js
+Warning: React version not specified in eslint-plugin-react settings. See https://github.com/yannickcr/eslint-plugin-react#configuration .
+[Info  - 20:23:27] ESLint server stopped.

@@ -1,0 +1,37 @@
+Validating found git in: git
+Using git 2.32.0 from git
+> git rev-parse --git-dir
+Open repository: /home/rafael/Projects/MegaImagem/auto-servico-totem-electron
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:src/pages/Retirada/LoginProtocolo/index.tsx
+> git ls-tree -l HEAD -- /home/rafael/Projects/MegaImagem/auto-servico-totem-electron/src/pages/Retirada/LoginProtocolo/index.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git ls-tree -l HEAD -- /home/rafael/Projects/MegaImagem/auto-servico-totem-electron/src/pages/Retirada/LoginProtocolo/index.tsx
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/rafael/Projects/MegaImagem/auto-servico-totem-electron/src/pages/Retirada/LoginProtocolo/index.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git show --textconv HEAD:src/pages/Retirada/LoginProtocolo/index.tsx
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:src/components/atoms/TextField/index.tsx
+> git ls-tree -l HEAD -- /home/rafael/Projects/MegaImagem/auto-servico-totem-electron/src/components/atoms/TextField/index.tsx
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/pages/Retirada/LoginProtocolo/index.tsx
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-totem-electron/src/pages/Retirada/LoginProtocolo/index.tsx
+> git cat-file -s 5d603b831ca237ebcb15ab184598c0ed5285c775

@@ -1,0 +1,7 @@
+2021/07/15-18:15:22.166 9b25 Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/15-18:15:22.166 9b25 Recovering log #3
+2021/07/15-18:15:22.166 9b25 Reusing old log /home/rafael/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2021/07/15-19:20:53.145 bb60 Level-0 table #5: started
+2021/07/15-19:20:53.184 bb60 Level-0 table #5: 1054436 bytes OK
+2021/07/15-19:20:53.188 bb60 Delete type=0 #3
+2021/07/15-19:20:53.190 bb60 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

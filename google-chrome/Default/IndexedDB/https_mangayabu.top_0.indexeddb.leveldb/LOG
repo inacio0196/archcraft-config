@@ -1,0 +1,6 @@
+2021/07/04-03:57:11.977 1b2aa Creating DB /home/rafael/.config/google-chrome/Default/IndexedDB/https_mangayabu.top_0.indexeddb.leveldb since it was missing.
+2021/07/04-03:57:11.984 1b2aa Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_mangayabu.top_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/04-03:57:16.166 1af30 Level-0 table #5: started
+2021/07/04-03:57:16.170 1af30 Level-0 table #5: 5841 bytes OK
+2021/07/04-03:57:16.173 1af30 Delete type=0 #3
+2021/07/04-03:57:16.174 1af30 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,89 @@
+{
+   "checksum": "98b45805e52711afdf2ad2c8d36aca86",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13270841139349381",
+            "guid": "c5a590bb-7e16-4759-92ed-9d3768f0b9e1",
+            "id": "14",
+            "name": "WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13269832522255433",
+            "guid": "b611387b-8f2a-4509-8ecf-d911bf135456",
+            "id": "5",
+            "name": "ModalGR - AzureDevops",
+            "type": "url",
+            "url": "https://dev.azure.com/modalgr-megaimagem/auto-servico"
+         }, {
+            "date_added": "13270847546926905",
+            "guid": "0f6f7107-2225-4f34-a545-5db6901571c3",
+            "id": "15",
+            "name": "Runrun.it",
+            "type": "url",
+            "url": "https://runrun.it/pt-BR/boards/325921/kanban"
+         }, {
+            "date_added": "13269833238956326",
+            "guid": "4cfab8f7-600f-4ca0-9721-bef07279804c",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13269856967020884",
+            "guid": "393ed828-cc26-43ff-b0cc-2ca3949dc47b",
+            "id": "8",
+            "name": "Email – Rafael Inácio da Silva D'Oliveira – Outlook",
+            "type": "url",
+            "url": "https://outlook.office365.com/mail/inbox/id/AAQkADMwYWM4NmE1LWEyZDMtNDdjYS04OGJhLWVlYWZkNzBmODRiNgAQAAlTZwhuY2a6%2B6TCuugwZL0%3D"
+         }, {
+            "date_added": "13270449712636839",
+            "guid": "ebbd54f5-f6c8-45e3-b04e-e5ab8a59fa9c",
+            "id": "10",
+            "name": "Free icon - Free vector icons - Free SVG, PSD, PNG, EPS, Ai & Icon Font",
+            "type": "url",
+            "url": "https://freeicons.io/"
+         }, {
+            "date_added": "13270585759749481",
+            "guid": "eede3f2d-c028-4b8e-a7e3-d5ea4ee47ad4",
+            "id": "12",
+            "name": "Swagger UI - Mega Imagem",
+            "type": "url",
+            "url": "https://mgi.dev.api.gare.modalgr.com.br/swagger/index.html"
+         }, {
+            "date_added": "13270848555092459",
+            "guid": "e8729e88-0894-400e-8245-cb1bf6f54ecb",
+            "id": "16",
+            "name": "API de Feriados Municipais, Estaduais e Nacionais",
+            "type": "url",
+            "url": "https://www.calendario.com.br/api_feriados_municipais_estaduais_nacionais.php"
+         } ],
+         "date_added": "13269830919351440",
+         "date_modified": "13270848555092459",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13269830919351443",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Outros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13269830919351446",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Favoritos nos dispositivos móveis",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

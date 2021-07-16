@@ -1,0 +1,21 @@
+[2021-07-15 15:31:42.058] [sharedprocess] [info] Deleted from disk naumovs.color-highlight /home/rafael/.vscode/extensions/naumovs.color-highlight-2.3.0
+[2021-07-15 15:31:51.160] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-07-15 15:31:51.160] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210713T233852'
+[2021-07-15 15:32:11.158] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-07-15 15:32:11.159] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-07-15 15:32:21.162] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-07-15 16:09:16.541] [sharedprocess] [warning] Resolved variables received without matching request 11
+[2021-07-15 16:09:16.643] [sharedprocess] [warning] Resolved variables received without matching request 12
+[2021-07-15 16:09:16.672] [sharedprocess] [warning] Resolved variables received without matching request 13
+[2021-07-15 16:09:18.087] [sharedprocess] [warning] Resolved variables received without matching request 14
+[2021-07-15 16:09:18.098] [sharedprocess] [warning] Resolved variables received without matching request 15
+[2021-07-15 16:09:18.862] [sharedprocess] [warning] Resolved variables received without matching request 16
+[2021-07-15 16:09:18.864] [sharedprocess] [warning] Resolved variables received without matching request 17
+[2021-07-15 16:09:18.872] [sharedprocess] [warning] Resolved variables received without matching request 18
+[2021-07-15 16:09:18.916] [sharedprocess] [warning] Resolved variables received without matching request 19
+[2021-07-15 16:09:18.917] [sharedprocess] [warning] Resolved variables received without matching request 20
+[2021-07-15 16:09:20.867] [sharedprocess] [warning] Resolved variables received without matching request 21
+[2021-07-15 16:09:20.868] [sharedprocess] [warning] Resolved variables received without matching request 22
+[2021-07-15 16:09:20.869] [sharedprocess] [warning] Resolved variables received without matching request 23
+[2021-07-15 16:09:20.872] [sharedprocess] [warning] Resolved variables received without matching request 24
+[2021-07-15 16:09:20.879] [sharedprocess] [warning] Resolved variables received without matching request 25

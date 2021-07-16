@@ -1,0 +1,15 @@
+2021/07/12-20:00:47.899 3f73 Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_mangalivre.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/12-20:00:47.899 3f73 Recovering log #4
+2021/07/12-20:00:47.900 3f73 Reusing old log /home/rafael/.config/google-chrome/Default/IndexedDB/https_mangalivre.net_0.indexeddb.leveldb/000004.log 
+2021/07/12-20:01:32.621 410b Level-0 table #8: started
+2021/07/12-20:01:32.624 410b Level-0 table #8: 209 bytes OK
+2021/07/12-20:01:32.628 410b Delete type=0 #4
+2021/07/12-20:01:32.629 410b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/12-20:01:32.629 410b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 332 : 1
+2021/07/12-20:01:32.629 410b Compacting 1@1 + 1@2 files
+2021/07/12-20:01:32.633 410b Generated table #9@1: 98 keys, 1487 bytes
+2021/07/12-20:01:32.633 410b Compacted 1@1 + 1@2 files => 1487 bytes
+2021/07/12-20:01:32.636 410b compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/12-20:01:32.636 410b Delete type=2 #8
+2021/07/12-20:01:32.636 410b Delete type=2 #5
+2021/07/12-20:01:32.637 410b Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 332 : 1 .. (end); will stop at (end)

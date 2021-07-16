@@ -1,0 +1,3 @@
+[2021-07-16 00:53:38:921] [/home/rafael/.config/conky/Mesarthim] Git Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 40 ms 
+[2021-07-16 00:53:38:988] [/home/rafael/.config/conky/Mesarthim] Git Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 13 ms 
+[2021-07-16 01:23:23:429] [/home/rafael] Git Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 60 ms 

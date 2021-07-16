@@ -1,0 +1,6 @@
+2021/07/08-01:29:23.577 8bbf Creating DB /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb since it was missing.
+2021/07/08-01:29:23.585 8bbf Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/08-01:30:02.370 8bbf Level-0 table #5: started
+2021/07/08-01:30:02.373 8bbf Level-0 table #5: 17645 bytes OK
+2021/07/08-01:30:02.376 8bbf Delete type=0 #3
+2021/07/08-01:30:02.376 8bbf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

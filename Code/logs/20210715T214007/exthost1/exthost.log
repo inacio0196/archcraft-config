@@ -1,0 +1,41 @@
+[2021-07-15 21:40:09.232] [exthost] [info] extension host started
+[2021-07-15 21:40:09.232] [exthost] [info] Skipping acquiring lock for /home/rafael/.config/Code/User/workspaceStorage/f7200e8bc2fbe0877165c1bd0ee87975.
+[2021-07-15 21:40:09.314] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-07-15 21:40:09.314] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-07-15 21:40:09.335] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-15 21:40:09.336] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-07-15 21:40:09.339] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-15 21:40:09.340] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/git/dist/main
+[2021-07-15 21:40:09.400] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-07-15 21:40:09.400] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rafael/.vscode/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-07-15 21:40:09.421] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-07-15 21:40:09.421] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rafael/.vscode/extensions/formulahendry.auto-close-tag-0.5.11/out/src/extension
+[2021-07-15 21:40:09.423] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph {"startup":true,"extensionId":{"value":"mhutchie.git-graph","_lower":"mhutchie.git-graph"},"activationEvent":"*"}
+[2021-07-15 21:40:09.423] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rafael/.vscode/extensions/mhutchie.git-graph-1.30.0/out/extension.js
+[2021-07-15 21:40:09.444] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2021-07-15 21:40:09.444] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rafael/.vscode/extensions/naumovs.color-highlight-2.4.0/dist/extension
+[2021-07-15 21:40:09.448] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-07-15 21:40:09.448] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rafael/.vscode/extensions/pkief.material-icon-theme-4.8.0/dist/extension
+[2021-07-15 21:40:09.596] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-15 21:40:09.596] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-07-15 21:40:09.604] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-15 21:40:09.605] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-15 21:40:09.698] [exthost] [info] eager extensions activated
+[2021-07-15 21:40:09.724] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-15 21:40:09.724] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-15 21:40:09.728] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-15 21:40:09.728] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-15 21:40:09.729] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-15 21:40:09.729] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-15 21:40:09.730] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":false,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"onStartupFinished"}
+[2021-07-15 21:40:09.730] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rafael/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension
+[2021-07-15 21:40:09.740] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-07-15 21:40:09.740] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rafael/.vscode/extensions/dbaeumer.vscode-eslint-2.1.23/client/out/extension
+[2021-07-15 21:40:09.758] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"onStartupFinished"}
+[2021-07-15 21:40:09.758] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rafael/.vscode/extensions/eamodio.gitlens-11.6.0/dist/gitlens
+[2021-07-15 21:40:09.782] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-07-15 21:40:09.783] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rafael/.vscode/extensions/esbenp.prettier-vscode-8.0.1/dist/extension
+[2021-07-15 21:40:09.981] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-07-15 21:40:09.981] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-07-15 21:52:57.254] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-07-15 21:52:58.327] [exthost] [info] exiting with code 0

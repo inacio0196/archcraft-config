@@ -1,0 +1,6 @@
+2021/07/09-23:11:59.786 55fb Creating DB /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.redebrasilatual.com.br_0.indexeddb.leveldb since it was missing.
+2021/07/09-23:11:59.793 55fb Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.redebrasilatual.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/09-23:12:46.656 5640 Level-0 table #5: started
+2021/07/09-23:12:46.659 5640 Level-0 table #5: 6106 bytes OK
+2021/07/09-23:12:46.663 5640 Delete type=0 #3
+2021/07/09-23:12:46.664 5640 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2021/07/15-13:45:27.002 4e8 Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_dev.azure.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/15-13:45:27.002 4e8 Recovering log #7
+2021/07/15-13:45:27.003 4e8 Reusing old log /home/rafael/.config/google-chrome/Default/IndexedDB/https_dev.azure.com_0.indexeddb.leveldb/000007.log 
+2021/07/15-15:30:39.875 3577 Level-0 table #12: started
+2021/07/15-15:30:39.878 3577 Level-0 table #12: 50925 bytes OK
+2021/07/15-15:30:39.881 3577 Delete type=0 #7
+2021/07/15-15:30:39.881 3577 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/15-15:30:39.881 3577 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x019\x00w\x00i\x00t\x00/\x001\x001\x00/\x00e\x002\x003\x004\x008\x003\x001\x003\x00-\x006\x000\x00c\x003\x00-\x004\x00b\x00d\x003\x00-\x00b\x004\x003\x009\x00-\x001\x000\x003\x004\x00d\x00b\x001\x004\x005\x004\x00b\x00d\x00/\x00W\x00o\x00r\x00k\x00I\x00t\x00e\x00m\x00T\x00y\x00p\x00e\x00s' @ 2486 : 0
+2021/07/15-15:30:39.881 3577 Compacting 1@1 + 1@2 files
+2021/07/15-15:30:39.884 3577 Generated table #13@1: 34 keys, 11423 bytes
+2021/07/15-15:30:39.884 3577 Compacted 1@1 + 1@2 files => 11423 bytes
+2021/07/15-15:30:39.887 3577 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/15-15:30:39.888 3577 Delete type=2 #12
+2021/07/15-15:30:39.888 3577 Delete type=2 #9
+2021/07/15-15:30:39.888 3577 Manual compaction at level-1 from '\x00\x01\x01\x03\x019\x00w\x00i\x00t\x00/\x001\x001\x00/\x00e\x002\x003\x004\x008\x003\x001\x003\x00-\x006\x000\x00c\x003\x00-\x004\x00b\x00d\x003\x00-\x00b\x004\x003\x009\x00-\x001\x000\x003\x004\x00d\x00b\x001\x004\x005\x004\x00b\x00d\x00/\x00W\x00o\x00r\x00k\x00I\x00t\x00e\x00m\x00T\x00y\x00p\x00e\x00s' @ 2486 : 0 .. (end); will stop at (end)

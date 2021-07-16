@@ -1,0 +1,6 @@
+2021/07/07-00:27:18.969 3fd Creating DB /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb since it was missing.
+2021/07/07-00:27:18.977 3fd Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/07-00:27:26.929 42d Level-0 table #5: started
+2021/07/07-00:27:26.932 42d Level-0 table #5: 1106 bytes OK
+2021/07/07-00:27:26.936 42d Delete type=0 #3
+2021/07/07-00:27:26.936 42d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

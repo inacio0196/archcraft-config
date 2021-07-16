@@ -1,0 +1,32 @@
+Validating found git in: git
+Using git 2.32.0 from git
+> git rev-parse --git-dir
+Open repository: /home/rafael/Projects/MegaImagem/auto-servico-totem-electron
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/pages/Retirada/LoginProtocolo/index.tsx
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-totem-electron/src/pages/Retirada/LoginProtocolo/index.tsx
+> git cat-file -s ab0f3b3b3eb40f4860a0c9b28133d8956cd0c426
+> git fetch
+From ssh.dev.azure.com:v3/modalgr-megaimagem/auto-servico/auto-servico-totem-electron
+   cb90268..d5f880d  dev        -> origin/dev
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-totem-electron/src/pages/Retirada/LoginProtocolo/index.tsx
+> git cat-file -s ab0f3b3b3eb40f4860a0c9b28133d8956cd0c426
+> git show --textconv :src/pages/Retirada/LoginProtocolo/index.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

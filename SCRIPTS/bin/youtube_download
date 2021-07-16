@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+
+## Launch ask for video url
+launchGetUrl () {
+	rofi -dmenu \
+	-no-fixed-num-lines\
+	-i \
+	-p "URL " \
+	-padding 24 \
+	-width 60 \
+	-font "Iosevka 11" \
+	-color-enabled true \
+	-color-window "#212B30, #212B30, #212B30" \
+	-color-normal "#212B30, #d8dee8, #212B30, #212B30, #EC407A" \
+	-color-active "#212B30, #b48ead, #212B30, #212B30, #91BEBBFF" \
+	-color-urgent "#212B30, #ebcb8b, #212B30, #212B30, #ebcb8b" \
+	-theme-str 'entry { placeholder: "Youtube video URL for Download"; }'
+}
+
+videoUrl=$(launchGetUrl)
+
+if [[ -z $videoUrl ]]
+then
+	exit 1
+else
+	if [[ $videoUrl =~ ^https://youtu\.be/ ]]
+	then
+		filename=$(youtube-dl -f best --get-filename -o "%(title)s.%(ext)s" $videoUrl)
+		if [[ $1 = '--mp3' ]]; then
+			dunstify -u low -i /usr/share/icons/Archcraft/actions/32/youtube-icon.svg "Youtube Download" "Downloading mp3 <b>$filename</b>" &
+			youtube-dl -o "~/Música/%(title)s.%(ext)s" --extract-audio --audio-format mp3 $videoUrl
+			dunstify -t 10000 -i /usr/share/icons/Archcraft/actions/32/youtube-icon.svg "Youtube Download" "The music <b>$filename</b> was downloaded and saved in <b>~/Música</b>" &
+		fi
+
+		if [[ $1 = '--video' ]]; then
+			dunstify -u low -i /usr/share/icons/Archcraft/actions/32/youtube-icon.svg "Youtube Download" "Downloading video <b>$filename</b>" &
+			youtube-dl -f best -o "~/Vídeos/%(title)s.%(ext)s" $videoUrl
+			dunstify -t 10000 -i /usr/share/icons/Archcraft/actions/32/youtube-icon.svg "Youtube Download" "The video <b>$filename</b> was downloaded and saved in <b>~/Vídeos</b>" &
+		fi
+	else
+		dunstify -t 10000 -i /usr/share/icons/Archcraft/actions/32/youtube-icon.svg "Youtube Download" "Error downloading <b>invalid URL</b>." &
+	fi
+	exit 1
+fi

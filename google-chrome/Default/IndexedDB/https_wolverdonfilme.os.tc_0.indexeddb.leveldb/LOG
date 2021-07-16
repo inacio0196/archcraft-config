@@ -1,0 +1,6 @@
+2021/07/06-18:14:11.258 2991 Creating DB /home/rafael/.config/google-chrome/Default/IndexedDB/https_wolverdonfilme.os.tc_0.indexeddb.leveldb since it was missing.
+2021/07/06-18:14:11.265 2991 Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_wolverdonfilme.os.tc_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/06-18:32:28.259 2f71 Level-0 table #5: started
+2021/07/06-18:32:28.263 2f71 Level-0 table #5: 9190 bytes OK
+2021/07/06-18:32:28.267 2f71 Delete type=0 #3
+2021/07/06-18:32:28.267 2f71 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

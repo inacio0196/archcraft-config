@@ -1,0 +1,15 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="683" y="300" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="187" y="44" key="SettingsEditor" timestamp="1625378201347">
+      <screen x="10" y="44" width="1346" height="714" />
+    </state>
+    <state x="187" y="44" key="SettingsEditor/10.44.1346.714" timestamp="1625378201347" />
+    <state x="683" y="386" key="WELCOME_SCREEN" timestamp="1625378202406">
+      <screen x="10" y="44" width="1346" height="714" />
+    </state>
+    <state x="683" y="386" key="WELCOME_SCREEN/10.44.1346.714" timestamp="1625378202406" />
+  </component>
+</application>

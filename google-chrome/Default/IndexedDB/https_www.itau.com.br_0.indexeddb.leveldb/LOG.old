@@ -1,0 +1,15 @@
+2021/07/09-15:20:26.796 b48 Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.itau.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/09-15:20:26.796 b48 Recovering log #7
+2021/07/09-15:20:26.796 b48 Reusing old log /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.itau.com.br_0.indexeddb.leveldb/000007.log 
+2021/07/09-15:21:12.290 666 Level-0 table #12: started
+2021/07/09-15:21:12.293 666 Level-0 table #12: 1921 bytes OK
+2021/07/09-15:21:12.297 666 Delete type=0 #7
+2021/07/09-15:21:12.297 666 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/09-15:21:12.297 666 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x05\x00s\x00t\x00a\x00t\x00e' @ 76 : 1
+2021/07/09-15:21:12.297 666 Compacting 1@1 + 1@2 files
+2021/07/09-15:21:12.300 666 Generated table #13@1: 21 keys, 1874 bytes
+2021/07/09-15:21:12.300 666 Compacted 1@1 + 1@2 files => 1874 bytes
+2021/07/09-15:21:12.303 666 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/09-15:21:12.304 666 Delete type=2 #12
+2021/07/09-15:21:12.304 666 Delete type=2 #9
+2021/07/09-15:21:12.304 666 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x05\x00s\x00t\x00a\x00t\x00e' @ 76 : 1 .. (end); will stop at (end)

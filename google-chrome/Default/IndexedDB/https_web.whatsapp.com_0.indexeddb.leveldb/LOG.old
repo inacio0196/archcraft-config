@@ -1,0 +1,69 @@
+2021/07/16-02:27:57.047 1b795 Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/16-02:27:57.048 1b795 Recovering log #2451
+2021/07/16-02:27:57.124 1b795 Reusing old log /home/rafael/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002451.log 
+2021/07/16-02:59:28.529 1cdd2 Level-0 table #2462: started
+2021/07/16-02:59:28.609 1cdd2 Level-0 table #2462: 1217328 bytes OK
+2021/07/16-02:59:28.619 1cdd2 Delete type=0 #2451
+2021/07/16-03:00:21.546 1cf2d Compacting 1@1 + 7@2 files
+2021/07/16-03:00:21.661 1cf2d Generated table #2463@1: 37337 keys, 2222727 bytes
+2021/07/16-03:00:21.717 1cf2d Generated table #2464@1: 39413 keys, 2258532 bytes
+2021/07/16-03:00:21.768 1cf2d Generated table #2465@1: 34767 keys, 2257581 bytes
+2021/07/16-03:00:21.824 1cf2d Generated table #2466@1: 40695 keys, 2282345 bytes
+2021/07/16-03:00:21.878 1cf2d Generated table #2467@1: 95725 keys, 2254284 bytes
+2021/07/16-03:00:21.929 1cf2d Generated table #2468@1: 54040 keys, 2438173 bytes
+2021/07/16-03:00:21.959 1cf2d Generated table #2469@1: 3068 keys, 1673945 bytes
+2021/07/16-03:00:21.959 1cf2d Compacted 1@1 + 7@2 files => 15387587 bytes
+2021/07/16-03:00:21.964 1cf2d compacted to: files[ 0 0 7 0 0 0 0 ]
+2021/07/16-03:00:21.964 1cf2d Delete type=2 #2462
+2021/07/16-03:00:21.964 1cf2d Delete type=2 #2454
+2021/07/16-03:00:21.964 1cf2d Delete type=2 #2455
+2021/07/16-03:00:21.964 1cf2d Delete type=2 #2459
+2021/07/16-03:00:21.964 1cf2d Delete type=2 #2457
+2021/07/16-03:00:21.965 1cf2d Delete type=2 #2458
+2021/07/16-03:00:21.965 1cf2d Delete type=2 #2453
+2021/07/16-03:00:21.965 1cf2d Delete type=2 #2456
+2021/07/16-03:04:10.564 1cdd2 Level-0 table #2471: started
+2021/07/16-03:04:10.583 1cdd2 Level-0 table #2471: 1141957 bytes OK
+2021/07/16-03:04:10.586 1cdd2 Delete type=0 #2461
+2021/07/16-03:04:10.587 1cdd2 Compacting 1@1 + 7@2 files
+2021/07/16-03:04:10.654 1cdd2 Generated table #2472@1: 37400 keys, 2223772 bytes
+2021/07/16-03:04:10.742 1cdd2 Generated table #2473@1: 39412 keys, 2259246 bytes
+2021/07/16-03:04:10.797 1cdd2 Generated table #2474@1: 34738 keys, 2256037 bytes
+2021/07/16-03:04:10.856 1cdd2 Generated table #2475@1: 40700 keys, 2282184 bytes
+2021/07/16-03:04:10.974 1cdd2 Generated table #2476@1: 82930 keys, 2309109 bytes
+2021/07/16-03:04:11.014 1cdd2 Generated table #2477@1: 4419 keys, 2565118 bytes
+2021/07/16-03:04:11.014 1cdd2 Compacted 1@1 + 7@2 files => 13895466 bytes
+2021/07/16-03:04:11.017 1cdd2 compacted to: files[ 0 0 6 0 0 0 0 ]
+2021/07/16-03:04:11.033 1cdd2 Level-0 table #2479: started
+2021/07/16-03:04:11.053 1cdd2 Level-0 table #2479: 1092497 bytes OK
+2021/07/16-03:04:11.056 1cdd2 Delete type=2 #2471
+2021/07/16-03:04:11.056 1cdd2 Delete type=0 #2470
+2021/07/16-03:04:11.181 1cdd2 Level-0 table #2481: started
+2021/07/16-03:04:11.205 1cdd2 Level-0 table #2481: 1269234 bytes OK
+2021/07/16-03:04:11.208 1cdd2 Delete type=0 #2478
+2021/07/16-03:04:11.310 1cdd2 Level-0 table #2483: started
+2021/07/16-03:04:11.345 1cdd2 Level-0 table #2483: 1042321 bytes OK
+2021/07/16-03:04:11.348 1cdd2 Delete type=0 #2480
+2021/07/16-03:04:11.418 1cdd2 Level-0 table #2485: started
+2021/07/16-03:04:11.445 1cdd2 Level-0 table #2485: 1014613 bytes OK
+2021/07/16-03:04:11.448 1cdd2 Delete type=0 #2482
+2021/07/16-03:04:11.526 1cdd2 Level-0 table #2487: started
+2021/07/16-03:04:11.565 1cdd2 Level-0 table #2487: 1162421 bytes OK
+2021/07/16-03:04:11.570 1cdd2 Delete type=0 #2484
+2021/07/16-03:04:11.571 1cf2d Compacting 4@0 + 1@1 files
+2021/07/16-03:04:11.641 1cf2d Generated table #2488@0: 40263 keys, 2257752 bytes
+2021/07/16-03:04:11.669 1cf2d Level-0 table #2491: started
+2021/07/16-03:04:11.694 1cf2d Level-0 table #2491: 1185734 bytes OK
+2021/07/16-03:04:11.698 1cf2d Delete type=0 #2486
+2021/07/16-03:04:11.748 1cf2d Generated table #2489@0: 48011 keys, 2281498 bytes
+2021/07/16-03:04:11.781 1cf2d Level-0 table #2494: started
+2021/07/16-03:04:11.800 1cf2d Level-0 table #2494: 1049409 bytes OK
+2021/07/16-03:04:11.803 1cf2d Delete type=0 #2490
+2021/07/16-03:04:11.811 1cf2d Generated table #2492@0: 68661 keys, 1039982 bytes
+2021/07/16-03:04:11.811 1cf2d Compacted 4@0 + 1@1 files => 5579232 bytes
+2021/07/16-03:04:11.814 1cf2d compacted to: files[ 2 3 6 0 0 0 0 ]
+2021/07/16-03:04:11.814 1cf2d Delete type=2 #2479
+2021/07/16-03:04:11.814 1cf2d Delete type=2 #2483
+2021/07/16-03:04:11.814 1cf2d Delete type=2 #2487
+2021/07/16-03:04:11.814 1cf2d Delete type=2 #2485
+2021/07/16-03:04:11.814 1cf2d Delete type=2 #2481

@@ -1,0 +1,406 @@
+Validating found git in: git
+Using git 2.32.0 from git
+> git rev-parse --git-dir
+Open repository: /home/rafael/Projects/MegaImagem/auto-servico-frontend-web
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git show --textconv HEAD:app/containers/UsuariosPage/components/UsuariosTable.js
+> git ls-tree -l HEAD -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/components/UsuariosTable.js
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git ls-tree -l HEAD -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/components/UsuariosTable.js
+> git show --textconv HEAD:app/containers/UsuariosPage/components/UsuariosTable.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git show --textconv :app/containers/UsuariosPage/index.js
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/index.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/index.js
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/index.js
+> git cat-file -s bba31a6fe4423cec9b2ffef839f303eaf05fc659
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/components/UsuariosTable.js
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/index.js
+> git cat-file -s bba31a6fe4423cec9b2ffef839f303eaf05fc659
+> git show --textconv HEAD:app/containers/UsuariosPage/components/UsuariosTable.js
+> git show --textconv :app/containers/UsuariosPage/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/components/UsuariosTable.js
+> git show --textconv :app/containers/UsuariosPage/index.js
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/index.js
+> git cat-file -s bba31a6fe4423cec9b2ffef839f303eaf05fc659
+> git show --textconv :app/containers/UsuariosPage/components/UsuariosTable.js
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/components/UsuariosTable.js
+> git cat-file -s 070ee61cdb48ff351147d7cb87a40271690653ae
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/components/UsuariosTable.js
+> git cat-file -s 070ee61cdb48ff351147d7cb87a40271690653ae
+> git show --textconv :app/containers/UsuariosPage/components/UsuariosTable.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/components/UsuariosTable.js
+> git cat-file -s 070ee61cdb48ff351147d7cb87a40271690653ae
+> git show --textconv :app/containers/UsuariosPage/components/UsuariosTable.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/components/UsuariosTable.js
+> git cat-file -s 070ee61cdb48ff351147d7cb87a40271690653ae
+> git show --textconv :app/containers/UsuariosPage/components/UsuariosTable.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/components/UsuariosTable.js
+> git cat-file -s 070ee61cdb48ff351147d7cb87a40271690653ae
+> git show --textconv :app/containers/UsuariosPage/components/UsuariosTable.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/components/UsuariosTable.js
+> git cat-file -s 070ee61cdb48ff351147d7cb87a40271690653ae
+> git show --textconv :app/containers/UsuariosPage/components/UsuariosTable.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/components/UsuariosTable.js
+> git cat-file -s 070ee61cdb48ff351147d7cb87a40271690653ae
+> git show --textconv :app/containers/UsuariosPage/components/UsuariosTable.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/components/UsuariosTable.js
+> git cat-file -s 070ee61cdb48ff351147d7cb87a40271690653ae
+> git show --textconv :app/containers/UsuariosPage/components/UsuariosTable.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/components/UsuariosTable.js
+> git cat-file -s 070ee61cdb48ff351147d7cb87a40271690653ae
+> git show --textconv :app/containers/UsuariosPage/components/UsuariosTable.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/components/UsuariosTable.js
+> git cat-file -s 070ee61cdb48ff351147d7cb87a40271690653ae
+> git show --textconv :app/containers/UsuariosPage/components/UsuariosTable.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/components/UsuariosTable.js
+> git cat-file -s 070ee61cdb48ff351147d7cb87a40271690653ae
+> git show --textconv :app/containers/UsuariosPage/components/UsuariosTable.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/components/UsuariosTable.js
+> git cat-file -s 070ee61cdb48ff351147d7cb87a40271690653ae
+> git show --textconv :app/containers/UsuariosPage/components/UsuariosTable.js
+From ssh.dev.azure.com:v3/modalgr-megaimagem/auto-servico/auto-servico-frontend-web
+   c26fd31..4d688fb  dev        -> origin/dev
+ * [new branch]      multi-empresa-descomentado -> origin/multi-empresa-descomentado
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/components/UsuariosTable.js
+> git cat-file -s 070ee61cdb48ff351147d7cb87a40271690653ae
+> git show --textconv :app/containers/UsuariosPage/components/UsuariosTable.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/containers/PainelRetiradaPage/index.js
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/PainelRetiradaPage/index.js
+> git cat-file -s 9122aa2795f53e4d6b1c8b4be0fe9536be1f3c82
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:app/containers/UsuariosPage/index.js
+> git ls-tree -l HEAD -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/index.js
+> git ls-tree -l HEAD -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/index.js
+> git status -z -u
+> git ls-tree -l HEAD -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/index.js
+> git show --textconv HEAD:app/containers/UsuariosPage/index.js
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git show --textconv HEAD:app/containers/UsuariosPage/index.js
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git checkout -q -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/index.js
+> git ls-tree -l HEAD -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/feat/role-entrega-resultados refs/remotes/feat/role-entrega-resultados
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/index.js
+> git status -z -u
+> git ls-tree -l HEAD -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/index.js
+> git show --textconv HEAD:app/containers/UsuariosPage/index.js
+> git symbolic-ref --short HEAD
+> git show --textconv HEAD:app/containers/UsuariosPage/index.js
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/containers/UsuariosPage/components/UsuariosTable.js
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/UsuariosPage/components/UsuariosTable.js
+> git cat-file -s 776f3d4acc6108e3c8325ded0aadc4e5daca576f
+> git show --textconv :app/containers/PainelRetiradaPage/index.js
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/PainelRetiradaPage/index.js
+> git cat-file -s 9122aa2795f53e4d6b1c8b4be0fe9536be1f3c82
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/PainelRetiradaPage/index.js
+> git cat-file -s 9122aa2795f53e4d6b1c8b4be0fe9536be1f3c82
+> git show --textconv :app/containers/PainelRetiradaPage/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/PainelRetiradaPage/index.js
+> git cat-file -s 9122aa2795f53e4d6b1c8b4be0fe9536be1f3c82
+> git config --get commit.template
+> git show --textconv :app/containers/PainelRetiradaPage/index.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/PainelRetiradaPage/index.js
+> git cat-file -s 9122aa2795f53e4d6b1c8b4be0fe9536be1f3c82
+> git show --textconv :app/containers/PainelRetiradaPage/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/PainelRetiradaPage/index.js
+> git cat-file -s 9122aa2795f53e4d6b1c8b4be0fe9536be1f3c82
+> git show --textconv :app/containers/PainelRetiradaPage/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/PainelRetiradaPage/index.js
+> git cat-file -s 9122aa2795f53e4d6b1c8b4be0fe9536be1f3c82
+> git show --textconv :app/containers/PainelRetiradaPage/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/containers/BackofficeRetirada/index.js
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/BackofficeRetirada/index.js
+> git cat-file -s 677ee5ec3f3680a845aa5c7ed27972670ca2a6c1
+> git show --textconv :app/containers/PainelRetiradaPage/index.js
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/PainelRetiradaPage/index.js
+> git cat-file -s 9122aa2795f53e4d6b1c8b4be0fe9536be1f3c82
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/PainelRetiradaPage/index.js
+> git cat-file -s 9122aa2795f53e4d6b1c8b4be0fe9536be1f3c82
+> git show --textconv :app/containers/PainelRetiradaPage/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-frontend-web/app/containers/PainelRetiradaPage/index.js
+> git cat-file -s 9122aa2795f53e4d6b1c8b4be0fe9536be1f3c82
+> git show --textconv :app/containers/PainelRetiradaPage/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/dev refs/remotes/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

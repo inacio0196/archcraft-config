@@ -1,0 +1,173 @@
+Validating found git in: git
+Using git 2.32.0 from git
+> git rev-parse --git-dir
+Open repository: /home/rafael/Projects/MegaImagem/auto-servico-totem-electron
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/pages/Retirada/LoginProtocolo/index.tsx
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-totem-electron/src/pages/Retirada/LoginProtocolo/index.tsx
+> git cat-file -s 5d603b831ca237ebcb15ab184598c0ed5285c775
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-totem-electron/src/pages/Retirada/LoginProtocolo/index.tsx
+> git cat-file -s 5d603b831ca237ebcb15ab184598c0ed5285c775
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/pages/Retirada/LoginProtocolo/index.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-totem-electron/src/pages/Retirada/LoginProtocolo/index.tsx
+> git cat-file -s 5d603b831ca237ebcb15ab184598c0ed5285c775
+> git show --textconv :src/pages/Retirada/LoginProtocolo/index.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:src/pages/Retirada/LoginProtocolo/index.tsx
+> git ls-tree -l HEAD -- /home/rafael/Projects/MegaImagem/auto-servico-totem-electron/src/pages/Retirada/LoginProtocolo/index.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/rafael/Projects/MegaImagem/auto-servico-totem-electron/src/pages/Retirada/LoginProtocolo/index.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-totem-electron/src/pages/Retirada/LoginProtocolo/index.tsx
+> git cat-file -s ab0f3b3b3eb40f4860a0c9b28133d8956cd0c426
+> git show --textconv :src/pages/Retirada/LoginProtocolo/index.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-totem-electron/src/pages/Retirada/LoginProtocolo/index.tsx
+> git cat-file -s ab0f3b3b3eb40f4860a0c9b28133d8956cd0c426
+> git show --textconv :src/pages/Retirada/LoginProtocolo/index.tsx
+husky > pre-commit (node v14.16.0)
+[STARTED] Preparing...
+[SUCCESS] Preparing...
+[STARTED] Running tasks...
+[STARTED] Running tasks for *.{js,jsx,ts,tsx}
+[STARTED] Running tasks for {*.json,.{babelrc,eslintrc,prettierrc}}
+[STARTED] Running tasks for *.{css,scss}
+[STARTED] Running tasks for *.{html,md,yml}
+[SKIPPED] No staged files match {*.json,.{babelrc,eslintrc,prettierrc}}
+[SKIPPED] No staged files match *.{css,scss}
+[SKIPPED] No staged files match *.{html,md,yml}
+[STARTED] cross-env NODE_ENV=development eslint --cache
+[SUCCESS] cross-env NODE_ENV=development eslint --cache
+[SUCCESS] Running tasks for *.{js,jsx,ts,tsx}
+[SUCCESS] Running tasks...
+[STARTED] Applying modifications...
+[SUCCESS] Applying modifications...
+[STARTED] Cleaning up...
+[SUCCESS] Cleaning up...
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/rafael/Projects/MegaImagem/auto-servico-totem-electron/src/pages/Retirada/LoginProtocolo/index.tsx
+> git show --textconv HEAD:src/pages/Retirada/LoginProtocolo/index.tsx
+> git log --oneline --cherry fix/validate-protocolo-cpf...fix/validate-protocolo-cpf@{upstream} --
+> git ls-tree -l HEAD -- /home/rafael/Projects/MegaImagem/auto-servico-totem-electron/src/pages/Retirada/LoginProtocolo/index.tsx
+> git pull --tags origin fix/validate-protocolo-cpf
+From ssh.dev.azure.com:v3/modalgr-megaimagem/auto-servico/auto-servico-totem-electron
+ * branch            fix/validate-protocolo-cpf -> FETCH_HEAD
+hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+> git push origin fix/validate-protocolo-cpf:fix/validate-protocolo-cpf
+To ssh.dev.azure.com:v3/modalgr-megaimagem/auto-servico/auto-servico-totem-electron
+   adcb12d..90813e2  fix/validate-protocolo-cpf -> fix/validate-protocolo-cpf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/rafael/Projects/MegaImagem/auto-servico-totem-electron/src/pages/Retirada/LoginProtocolo/index.tsx
+> git show --textconv HEAD:src/pages/Retirada/LoginProtocolo/index.tsx
+> git ls-tree -l HEAD -- /home/rafael/Projects/MegaImagem/auto-servico-totem-electron/src/pages/Retirada/LoginProtocolo/index.tsx
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/fix/validate-protocolo-cpf refs/remotes/fix/validate-protocolo-cpf
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/pages/Retirada/LoginProtocolo/index.tsx
+> git ls-files --stage -- /home/rafael/Projects/MegaImagem/auto-servico-totem-electron/src/pages/Retirada/LoginProtocolo/index.tsx
+> git cat-file -s ab0f3b3b3eb40f4860a0c9b28133d8956cd0c426

@@ -1,0 +1,6 @@
+2021/07/14-17:45:44.424 3be7 Creating DB /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.casasbahia.com.br_0.indexeddb.leveldb since it was missing.
+2021/07/14-17:45:44.431 3be7 Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.casasbahia.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/14-17:46:17.151 4123 Level-0 table #5: started
+2021/07/14-17:46:17.154 4123 Level-0 table #5: 1392 bytes OK
+2021/07/14-17:46:17.157 4123 Delete type=0 #3
+2021/07/14-17:46:17.157 4123 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

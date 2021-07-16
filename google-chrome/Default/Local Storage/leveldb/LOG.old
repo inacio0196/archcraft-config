@@ -1,0 +1,6 @@
+2021/07/16-02:27:55.739 5 Reusing MANIFEST /home/rafael/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/07/16-02:27:55.741 5 Recovering log #931
+2021/07/16-02:27:55.742 5 Reusing old log /home/rafael/.config/google-chrome/Default/Local Storage/leveldb/000931.log 
+2021/07/16-03:09:57.599 15 Level-0 table #935: started
+2021/07/16-03:09:57.603 15 Level-0 table #935: 17616 bytes OK
+2021/07/16-03:09:57.609 15 Delete type=0 #931

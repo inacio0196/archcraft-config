@@ -1,0 +1,6 @@
+2021/07/03-21:16:54.816 9a7 Creating DB /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb since it was missing.
+2021/07/03-21:16:54.822 9a7 Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/03-21:17:02.995 a32 Level-0 table #5: started
+2021/07/03-21:17:02.997 a32 Level-0 table #5: 801 bytes OK
+2021/07/03-21:17:03.000 a32 Delete type=0 #3
+2021/07/03-21:17:03.000 a32 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

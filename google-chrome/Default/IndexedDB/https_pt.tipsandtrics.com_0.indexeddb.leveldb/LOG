@@ -1,0 +1,18 @@
+2021/07/14-23:22:54.331 7bfd Creating DB /home/rafael/.config/google-chrome/Default/IndexedDB/https_pt.tipsandtrics.com_0.indexeddb.leveldb since it was missing.
+2021/07/14-23:22:54.338 7bfd Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_pt.tipsandtrics.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/14-23:23:02.366 7880 Level-0 table #5: started
+2021/07/14-23:23:02.368 7880 Level-0 table #5: 574 bytes OK
+2021/07/14-23:23:02.371 7880 Delete type=0 #3
+2021/07/14-23:23:02.371 7880 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/14-23:23:04.372 7880 Level-0 table #7: started
+2021/07/14-23:23:04.375 7880 Level-0 table #7: 256 bytes OK
+2021/07/14-23:23:04.378 7880 Delete type=0 #4
+2021/07/14-23:23:04.378 7880 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/14-23:23:04.378 7880 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0
+2021/07/14-23:23:04.378 7880 Compacting 1@1 + 1@2 files
+2021/07/14-23:23:04.381 7880 Generated table #8@1: 6 keys, 253 bytes
+2021/07/14-23:23:04.381 7880 Compacted 1@1 + 1@2 files => 253 bytes
+2021/07/14-23:23:04.384 7880 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/14-23:23:04.384 7880 Delete type=2 #7
+2021/07/14-23:23:04.384 7880 Delete type=2 #5
+2021/07/14-23:23:04.385 7880 Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0 .. (end); will stop at (end)

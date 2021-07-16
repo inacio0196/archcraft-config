@@ -1,0 +1,15 @@
+2021/07/04-02:58:53.667 16c58 Creating DB /home/rafael/.config/google-chrome/Default/IndexedDB/https_support.honeywellaidc.com_0.indexeddb.leveldb since it was missing.
+2021/07/04-02:58:53.673 16c58 Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_support.honeywellaidc.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/04-02:58:55.248 17128 Level-0 table #5: started
+2021/07/04-02:58:55.252 17128 Level-0 table #5: 137759 bytes OK
+2021/07/04-02:58:55.257 17128 Delete type=0 #3
+2021/07/04-02:58:55.257 17128 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/04-02:59:03.096 16dbc Level-0 table #7: started
+2021/07/04-02:59:03.114 16dbc Level-0 table #7: 1571197 bytes OK
+2021/07/04-02:59:03.118 16dbc Delete type=0 #4
+2021/07/04-02:59:03.120 16dbc Compacting 1@1 + 1@2 files
+2021/07/04-02:59:03.140 16dbc Generated table #8@1: 2504 keys, 1325087 bytes
+2021/07/04-02:59:03.140 16dbc Compacted 1@1 + 1@2 files => 1325087 bytes
+2021/07/04-02:59:03.143 16dbc compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/04-02:59:03.143 16dbc Delete type=2 #7
+2021/07/04-02:59:03.143 16dbc Delete type=2 #5

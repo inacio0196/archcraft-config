@@ -1,0 +1,8 @@
+[2021-07-15 15:21:01.058] [sharedprocess] [info] Installing extension: naumovs.color-highlight
+[2021-07-15 15:21:02.555] [sharedprocess] [info] Downloaded extension: naumovs.color-highlight /home/rafael/.config/Code/CachedExtensionVSIXs/naumovs.color-highlight-2.4.0
+[2021-07-15 15:21:04.076] [sharedprocess] [info] Extracted extension to /home/rafael/.vscode/extensions/.c4f28160-2793-4d87-8e93-a7958e91b081: naumovs.color-highlight
+[2021-07-15 15:21:04.086] [sharedprocess] [info] Renamed to /home/rafael/.vscode/extensions/naumovs.color-highlight-2.4.0
+[2021-07-15 15:21:04.088] [sharedprocess] [info] Installation completed. naumovs.color-highlight
+[2021-07-15 15:21:04.123] [sharedprocess] [info] Extensions installed successfully: naumovs.color-highlight
+[2021-07-15 15:21:04.631] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-07-15 15:21:04.632] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210713T142721, 20210713T224046'

@@ -1,0 +1,105 @@
+[2021-07-15 15:31:42.330] [exthost] [info] extension host started
+[2021-07-15 15:31:42.331] [exthost] [info] Skipping acquiring lock for /home/rafael/.config/Code/User/workspaceStorage/b4747beea10c7e17da525c41704a2dba.
+[2021-07-15 15:31:42.514] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-07-15 15:31:42.515] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-07-15 15:31:42.577] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-07-15 15:31:42.577] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-07-15 15:31:42.665] [exthost] [info] ExtensionService#_doActivateExtension rbbit.typescript-hero {"startup":false,"extensionId":{"value":"rbbit.typescript-hero","_lower":"rbbit.typescript-hero"},"activationEvent":"onLanguage:javascript"}
+[2021-07-15 15:31:42.665] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rafael/.vscode/extensions/rbbit.typescript-hero-3.0.0/out/src/extension
+[2021-07-15 15:31:43.232] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-15 15:31:43.232] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-07-15 15:31:43.235] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-15 15:31:43.235] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/git/dist/main
+[2021-07-15 15:31:43.295] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-07-15 15:31:43.295] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rafael/.vscode/extensions/editorconfig.editorconfig-0.16.4/out/editorConfigMain.js
+[2021-07-15 15:31:43.317] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-07-15 15:31:43.317] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rafael/.vscode/extensions/formulahendry.auto-close-tag-0.5.11/out/src/extension
+[2021-07-15 15:31:43.318] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph {"startup":true,"extensionId":{"value":"mhutchie.git-graph","_lower":"mhutchie.git-graph"},"activationEvent":"*"}
+[2021-07-15 15:31:43.318] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rafael/.vscode/extensions/mhutchie.git-graph-1.30.0/out/extension.js
+[2021-07-15 15:31:43.370] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2021-07-15 15:31:43.370] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rafael/.vscode/extensions/naumovs.color-highlight-2.4.0/dist/extension
+[2021-07-15 15:31:43.384] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-07-15 15:31:43.384] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rafael/.vscode/extensions/pkief.material-icon-theme-4.8.0/dist/extension
+[2021-07-15 15:31:43.416] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-07-15 15:31:43.416] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2021-07-15 15:31:44.025] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-15 15:31:44.025] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-07-15 15:31:44.040] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-15 15:31:44.040] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-15 15:31:44.912] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-07-15 15:31:44.912] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-07-15 15:31:44.940] [exthost] [info] eager extensions activated
+[2021-07-15 15:31:44.981] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-15 15:31:44.981] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-15 15:31:44.994] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-15 15:31:44.994] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-15 15:31:44.997] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-15 15:31:44.997] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-15 15:31:44.998] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":false,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"onStartupFinished"}
+[2021-07-15 15:31:44.998] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rafael/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1/out/src/extension
+[2021-07-15 15:31:45.021] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-07-15 15:31:45.021] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rafael/.vscode/extensions/dbaeumer.vscode-eslint-2.1.23/client/out/extension
+[2021-07-15 15:31:45.039] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"onStartupFinished"}
+[2021-07-15 15:31:45.040] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rafael/.vscode/extensions/eamodio.gitlens-11.6.0/dist/gitlens
+[2021-07-15 15:31:45.092] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-07-15 15:31:45.092] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rafael/.vscode/extensions/esbenp.prettier-vscode-8.0.1/dist/extension
+[2021-07-15 15:31:51.003] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 15:31:53.694] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 15:32:03.755] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-07-15 15:32:03.755] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/70/usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-07-15 15:34:45.387] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 15:47:24.117] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 15:47:25.088] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 15:51:04.205] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 15:51:07.363] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 15:51:09.510] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 16:03:33.010] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 16:03:37.866] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 16:03:57.727] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 16:06:40.874] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 16:06:50.634] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 16:21:36.186] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 16:22:23.927] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 16:24:09.382] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 16:29:54.906] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2021-07-15 16:29:54.908] [exthost] [error] Error: DisposableStore is missing...
+	at M._convertCompletionItem (/var/lib/snapd/snap/code/70/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:184535)
+	at M.resolveCompletionItem (/var/lib/snapd/snap/code/70/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:84:184310)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-07-15 16:30:04.529] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 16:31:47.517] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 16:35:18.188] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 16:36:20.298] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 16:36:48.359] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 16:37:25.259] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:01:07.367] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:01:24.815] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:02:46.279] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:03:00.105] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:05:13.921] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:05:26.241] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:06:55.296] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:07:13.772] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:07:21.912] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:17:39.305] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:17:57.691] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:20:10.119] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:20:44.778] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:21:07.224] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:24:21.879] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:24:22.987] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:24:25.835] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:24:26.492] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:24:27.183] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:24:27.658] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:24:29.427] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:24:35.417] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:24:52.412] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:24:54.743] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:25:07.873] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:25:12.036] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:25:17.084] [exthost] [warning] TextEditor is closed/disposed
+[2021-07-15 17:25:58.225] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-07-15 17:25:58.374] [exthost] [warning] {"name":"Canceled"}
+[2021-07-15 17:25:59.372] [exthost] [info] exiting with code 0

@@ -1,0 +1,2 @@
+Na tela de usuários adicionar permissão retirada de exames editar e adicionar usuário - GARE.
+Integrar Painel Retirada de exames backoffice - GARE

@@ -1,0 +1,7 @@
+[2021-07-03 20:11:27.029] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-07-03 20:11:32.542] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2021-07-03 20:11:40.276] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/rafael/.config/Code - OSS/CachedExtensionVSIXs/pkief.material-icon-theme-4.7.0
+[2021-07-03 20:11:41.205] [sharedprocess] [info] Extracted extension to /home/rafael/.vscode-oss/extensions/.47b8d8bf-61b4-4c4b-9743-85c1285db551: pkief.material-icon-theme
+[2021-07-03 20:11:41.211] [sharedprocess] [info] Renamed to /home/rafael/.vscode-oss/extensions/pkief.material-icon-theme-4.7.0
+[2021-07-03 20:11:41.212] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2021-07-03 20:11:41.219] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme

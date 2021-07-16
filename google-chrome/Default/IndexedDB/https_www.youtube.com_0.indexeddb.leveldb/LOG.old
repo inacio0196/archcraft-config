@@ -1,0 +1,48 @@
+2021/07/16-02:27:56.476 1b875 Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/16-02:27:56.476 1b875 Recovering log #652
+2021/07/16-02:27:56.477 1b875 Reusing old log /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000652.log 
+2021/07/16-02:27:56.477 1b875 Delete type=2 #651
+2021/07/16-02:28:00.713 1b854 Level-0 table #657: started
+2021/07/16-02:28:00.717 1b854 Level-0 table #657: 26974 bytes OK
+2021/07/16-02:28:00.723 1b854 Delete type=0 #652
+2021/07/16-02:28:00.723 1b854 Manual compaction at level-0 from '\x00\xc1\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xc2\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/16-02:38:37.610 1bd0b Compacting 1@1 + 1@2 files
+2021/07/16-02:38:37.616 1bd0b Generated table #658@1: 905 keys, 31876 bytes
+2021/07/16-02:38:37.616 1bd0b Compacted 1@1 + 1@2 files => 31876 bytes
+2021/07/16-02:38:37.619 1bd0b compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/16-02:38:37.619 1bd0b Delete type=2 #654
+2021/07/16-02:38:37.619 1bd0b Delete type=2 #657
+2021/07/16-02:56:22.656 1cb71 Manual compaction at level-0 from '\x00\xc3\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xc4\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/16-02:56:23.538 1c8cf Level-0 table #660: started
+2021/07/16-02:56:23.560 1c8cf Level-0 table #660: 344608 bytes OK
+2021/07/16-02:56:23.563 1c8cf Delete type=0 #656
+2021/07/16-02:56:23.564 1c8cf Manual compaction at level-0 from '\x00\xc2\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xc3\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/16-02:59:25.116 1cdd2 Compacting 1@1 + 1@2 files
+2021/07/16-02:59:25.132 1cdd2 Generated table #661@1: 926 keys, 32331 bytes
+2021/07/16-02:59:25.132 1cdd2 Compacted 1@1 + 1@2 files => 32331 bytes
+2021/07/16-02:59:25.135 1cdd2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/16-02:59:25.135 1cdd2 Delete type=2 #658
+2021/07/16-02:59:25.135 1cdd2 Delete type=2 #660
+2021/07/16-03:03:08.444 1d26a Level-0 table #663: started
+2021/07/16-03:03:08.450 1d26a Level-0 table #663: 324200 bytes OK
+2021/07/16-03:03:08.453 1d26a Delete type=0 #659
+2021/07/16-03:03:08.454 1d26a Manual compaction at level-0 from '\x00\xc4\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xc5\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/16-03:03:08.454 1d26a Manual compaction at level-1 from '\x00\xc4\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xc5\x00\x00\x00' @ 0 : 0; will stop at '\x00\xc5\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 364009 : 1
+2021/07/16-03:03:08.454 1d26a Compacting 1@1 + 1@2 files
+2021/07/16-03:03:08.459 1d26a Generated table #664@1: 946 keys, 33490 bytes
+2021/07/16-03:03:08.459 1d26a Compacted 1@1 + 1@2 files => 33490 bytes
+2021/07/16-03:03:08.464 1d26a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/16-03:03:08.464 1d26a Delete type=2 #663
+2021/07/16-03:03:08.464 1d26a Manual compaction at level-1 from '\x00\xc5\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 364009 : 1 .. '\x00\xc5\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/16-03:03:08.465 1cf2d Level-0 table #666: started
+2021/07/16-03:03:08.467 1cf2d Level-0 table #666: 2255 bytes OK
+2021/07/16-03:03:08.472 1cf2d Delete type=2 #661
+2021/07/16-03:03:08.472 1cf2d Delete type=0 #662
+2021/07/16-03:03:08.472 1cf2d Manual compaction at level-0 from '\x00\xc5\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xc6\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/16-03:03:08.472 1cf2d Manual compaction at level-1 from '\x00\xc5\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xc6\x00\x00\x00' @ 0 : 0; will stop at '\x00\xc6\x01\x1f\x04\x02\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00\x80m\x95\xde\xaawB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 365300 : 1
+2021/07/16-03:03:08.472 1cf2d Compacting 1@1 + 1@2 files
+2021/07/16-03:03:08.475 1cf2d Generated table #667@1: 939 keys, 32815 bytes
+2021/07/16-03:03:08.475 1cf2d Compacted 1@1 + 1@2 files => 32815 bytes
+2021/07/16-03:03:08.478 1cf2d compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/16-03:03:08.478 1cf2d Delete type=2 #666
+2021/07/16-03:03:08.478 1cf2d Manual compaction at level-1 from '\x00\xc6\x01\x1f\x04\x02\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00\x80m\x95\xde\xaawB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 365300 : 1 .. '\x00\xc6\x00\x00\x00' @ 0 : 0; will stop at (end)

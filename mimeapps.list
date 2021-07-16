@@ -1,0 +1,21 @@
+[Added Associations]
+image/png=viewnior.desktop;
+image/jpeg=viewnior.desktop;
+text/x-csrc=geany.desktop;
+application/x-shellscript=geany.desktop;
+image/gif=viewnior.desktop;
+image/svg+xml=viewnior.desktop;
+video/x-matroska=vlc.desktop;
+application/vnd.rar=xarchiver.desktop;
+audio/mpeg=vlc.desktop;
+video/mp4=vlc.desktop;
+
+[Default Applications]
+image/gif=viewnior.desktop
+image/svg+xml=viewnior.desktop
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+x-scheme-handler/fcade=fcade-quark.desktop

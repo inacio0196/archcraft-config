@@ -1,0 +1,27 @@
+2021/07/08-21:18:18.519 b155 Creating DB /home/rafael/.config/google-chrome/Default/IndexedDB/https_snack-web-player.s3.us-west-1.amazonaws.com_0.indexeddb.leveldb since it was missing.
+2021/07/08-21:18:18.525 b155 Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_snack-web-player.s3.us-west-1.amazonaws.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/08-21:18:23.910 b156 Level-0 table #5: started
+2021/07/08-21:18:23.954 b156 Level-0 table #5: 2660258 bytes OK
+2021/07/08-21:18:23.957 b156 Delete type=0 #3
+2021/07/08-21:18:24.108 b156 Level-0 table #7: started
+2021/07/08-21:18:24.160 b156 Level-0 table #7: 2570452 bytes OK
+2021/07/08-21:18:24.164 b156 Delete type=0 #4
+2021/07/08-21:19:15.159 b156 Level-0 table #9: started
+2021/07/08-21:19:15.165 b156 Level-0 table #9: 166690 bytes OK
+2021/07/08-21:19:15.168 b156 Delete type=0 #6
+2021/07/08-21:19:15.168 b156 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x01!\x01\x18\x002\x000\x002\x001\x00-\x000\x007\x00-\x000\x009\x00T\x000\x000\x00:\x001\x008\x00:\x002\x004\x00.\x004\x000\x000\x00Z\x00\x015\x00s\x00n\x00a\x00c\x00k\x00-\x00b\x00u\x00n\x00d\x00l\x00e\x00-\x002\x00-\x00s\x00n\x00a\x00c\x00k\x00a\x00g\x00e\x00r\x00-\x001\x00~\x00s\x00t\x00y\x00l\x00e\x00d\x00-\x00s\x00y\x00s\x00t\x00e\x00m\x00@\x005\x00.\x001\x00.\x005\x00-\x00w\x00e\x00b\x00.\x00j\x00s' @ 319 : 1
+2021/07/08-21:19:15.168 b156 Compacting 1@0 + 1@1 files
+2021/07/08-21:19:15.204 b156 Generated table #10@0: 74 keys, 892702 bytes
+2021/07/08-21:19:15.204 b156 Compacted 1@0 + 1@1 files => 892702 bytes
+2021/07/08-21:19:15.207 b156 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/08-21:19:15.207 b156 Delete type=2 #7
+2021/07/08-21:19:15.207 b156 Delete type=2 #9
+2021/07/08-21:19:15.208 b156 Manual compaction at level-0 from '\x00\x01\x01!\x01\x18\x002\x000\x002\x001\x00-\x000\x007\x00-\x000\x009\x00T\x000\x000\x00:\x001\x008\x00:\x002\x004\x00.\x004\x000\x000\x00Z\x00\x015\x00s\x00n\x00a\x00c\x00k\x00-\x00b\x00u\x00n\x00d\x00l\x00e\x00-\x002\x00-\x00s\x00n\x00a\x00c\x00k\x00a\x00g\x00e\x00r\x00-\x001\x00~\x00s\x00t\x00y\x00l\x00e\x00d\x00-\x00s\x00y\x00s\x00t\x00e\x00m\x00@\x005\x00.\x001\x00.\x005\x00-\x00w\x00e\x00b\x00.\x00j\x00s' @ 319 : 1 .. (end); will stop at (end)
+2021/07/08-21:19:15.208 b156 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01!\x01\x18\x002\x000\x002\x001\x00-\x000\x007\x00-\x000\x009\x00T\x000\x000\x00:\x001\x008\x00:\x002\x004\x00.\x004\x000\x000\x00Z\x00\x015\x00s\x00n\x00a\x00c\x00k\x00-\x00b\x00u\x00n\x00d\x00l\x00e\x00-\x002\x00-\x00s\x00n\x00a\x00c\x00k\x00a\x00g\x00e\x00r\x00-\x001\x00~\x00s\x00t\x00y\x00l\x00e\x00d\x00-\x00s\x00y\x00s\x00t\x00e\x00m\x00@\x005\x00.\x001\x00.\x005\x00-\x00w\x00e\x00b\x00.\x00j\x00s' @ 319 : 1
+2021/07/08-21:19:15.208 b156 Compacting 1@1 + 1@2 files
+2021/07/08-21:19:15.249 b156 Generated table #11@1: 49 keys, 921459 bytes
+2021/07/08-21:19:15.249 b156 Compacted 1@1 + 1@2 files => 921459 bytes
+2021/07/08-21:19:15.252 b156 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/08-21:19:15.254 b156 Delete type=2 #5
+2021/07/08-21:19:15.254 b156 Delete type=2 #10
+2021/07/08-21:19:15.257 b156 Manual compaction at level-1 from '\x00\x01\x01!\x01\x18\x002\x000\x002\x001\x00-\x000\x007\x00-\x000\x009\x00T\x000\x000\x00:\x001\x008\x00:\x002\x004\x00.\x004\x000\x000\x00Z\x00\x015\x00s\x00n\x00a\x00c\x00k\x00-\x00b\x00u\x00n\x00d\x00l\x00e\x00-\x002\x00-\x00s\x00n\x00a\x00c\x00k\x00a\x00g\x00e\x00r\x00-\x001\x00~\x00s\x00t\x00y\x00l\x00e\x00d\x00-\x00s\x00y\x00s\x00t\x00e\x00m\x00@\x005\x00.\x001\x00.\x005\x00-\x00w\x00e\x00b\x00.\x00j\x00s' @ 319 : 1 .. (end); will stop at (end)

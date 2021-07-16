@@ -1,0 +1,7 @@
+2021/07/05-16:10:02.993 368e Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/05-16:10:02.994 368e Recovering log #3
+2021/07/05-16:10:02.995 368e Reusing old log /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000003.log 
+2021/07/05-18:07:15.919 12bdb Level-0 table #5: started
+2021/07/05-18:07:15.922 12bdb Level-0 table #5: 5549 bytes OK
+2021/07/05-18:07:15.926 12bdb Delete type=0 #3
+2021/07/05-18:07:15.926 12bdb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

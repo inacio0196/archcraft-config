@@ -1,0 +1,74 @@
+2021/07/16-16:24:51.301 cfc Reusing MANIFEST /home/rafael/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2021/07/16-16:24:51.303 cfc Recovering log #1182
+2021/07/16-16:24:51.441 cfc Level-0 table #1185: started
+2021/07/16-16:24:51.537 cfc Level-0 table #1185: 6492154 bytes OK
+2021/07/16-16:24:51.542 cfc Delete type=0 #1182
+2021/07/16-16:25:55.359 d12 Level-0 table #1188: started
+2021/07/16-16:25:55.375 d31 Current memtable full; waiting...
+2021/07/16-16:25:55.448 d12 Level-0 table #1188: 6492338 bytes OK
+2021/07/16-16:25:55.453 d12 Delete type=0 #1186
+2021/07/16-16:25:55.456 d12 Compacting 4@0 + 2@1 files
+2021/07/16-16:25:55.491 d12 Level-0 table #1190: started
+2021/07/16-16:25:55.569 d12 Level-0 table #1190: 6492152 bytes OK
+2021/07/16-16:25:55.572 d12 Delete type=0 #1187
+2021/07/16-16:25:55.640 d12 Generated table #1191@0: 2 keys, 6492470 bytes
+2021/07/16-16:25:55.643 d12 Generated table #1192@0: 6 keys, 404 bytes
+2021/07/16-16:25:55.643 d12 Compacted 4@0 + 2@1 files => 6492874 bytes
+2021/07/16-16:25:55.646 d12 compacted to: files[ 1 2 1 0 0 0 0 ]
+2021/07/16-16:25:55.646 d12 Delete type=2 #1178
+2021/07/16-16:25:55.646 d12 Delete type=2 #1185
+2021/07/16-16:25:55.646 d12 Delete type=2 #1183
+2021/07/16-16:25:55.646 d12 Delete type=2 #1179
+2021/07/16-16:25:55.646 d12 Delete type=2 #1181
+2021/07/16-16:25:55.646 d12 Delete type=2 #1188
+2021/07/16-16:26:54.363 ed7 Level-0 table #1194: started
+2021/07/16-16:26:54.435 ed7 Level-0 table #1194: 6492329 bytes OK
+2021/07/16-16:26:54.440 ed7 Delete type=0 #1189
+2021/07/16-17:25:55.888 2995 Level-0 table #1196: started
+2021/07/16-17:25:55.976 2995 Level-0 table #1196: 6492546 bytes OK
+2021/07/16-17:25:55.979 2995 Delete type=0 #1193
+2021/07/16-17:28:03.647 2995 Level-0 table #1198: started
+2021/07/16-17:28:03.723 2995 Level-0 table #1198: 6492137 bytes OK
+2021/07/16-17:28:03.727 2995 Delete type=0 #1195
+2021/07/16-17:28:03.729 2995 Compacting 4@0 + 2@1 files
+2021/07/16-17:28:03.910 2995 Generated table #1199@0: 2 keys, 6492470 bytes
+2021/07/16-17:28:03.914 2995 Generated table #1200@0: 6 keys, 404 bytes
+2021/07/16-17:28:03.914 2995 Compacted 4@0 + 2@1 files => 6492874 bytes
+2021/07/16-17:28:03.917 2995 compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/07/16-17:28:03.917 2995 Delete type=2 #1190
+2021/07/16-17:28:03.917 2995 Delete type=2 #1194
+2021/07/16-17:28:03.917 2995 Delete type=2 #1196
+2021/07/16-17:28:03.917 2995 Delete type=2 #1198
+2021/07/16-17:28:03.917 2995 Delete type=2 #1192
+2021/07/16-17:28:03.917 2995 Delete type=2 #1191
+2021/07/16-18:25:55.963 550d Level-0 table #1202: started
+2021/07/16-18:25:55.979 550e Current memtable full; waiting...
+2021/07/16-18:25:56.053 550d Level-0 table #1202: 6493209 bytes OK
+2021/07/16-18:25:56.057 550d Delete type=0 #1197
+2021/07/16-18:25:56.060 550e Level-0 table #1204: started
+2021/07/16-18:25:56.144 550e Level-0 table #1204: 6492128 bytes OK
+2021/07/16-18:25:56.148 550e Delete type=0 #1201
+2021/07/16-18:28:00.463 550d Level-0 table #1206: started
+2021/07/16-18:28:00.539 550d Level-0 table #1206: 6492321 bytes OK
+2021/07/16-18:28:00.542 550d Delete type=0 #1203
+2021/07/16-19:25:56.449 95ee Level-0 table #1208: started
+2021/07/16-19:25:56.516 9523 Current memtable full; waiting...
+2021/07/16-19:25:56.562 95ee Level-0 table #1208: 6493084 bytes OK
+2021/07/16-19:25:56.566 95ee Delete type=0 #1205
+2021/07/16-19:25:56.570 95d8 Compacting 4@0 + 2@1 files
+2021/07/16-19:25:56.694 95d8 Level-0 table #1210: started
+2021/07/16-19:25:56.820 95d8 Level-0 table #1210: 6492131 bytes OK
+2021/07/16-19:25:56.827 95d8 Delete type=0 #1207
+2021/07/16-19:25:56.937 95d8 Generated table #1211@0: 2 keys, 6492464 bytes
+2021/07/16-19:25:56.944 95d8 Generated table #1212@0: 6 keys, 404 bytes
+2021/07/16-19:25:56.944 95d8 Compacted 4@0 + 2@1 files => 6492868 bytes
+2021/07/16-19:25:56.946 95d8 compacted to: files[ 1 2 1 0 0 0 0 ]
+2021/07/16-19:25:56.947 95d8 Delete type=2 #1206
+2021/07/16-19:25:56.947 95d8 Delete type=2 #1202
+2021/07/16-19:25:56.947 95d8 Delete type=2 #1199
+2021/07/16-19:25:56.947 95d8 Delete type=2 #1200
+2021/07/16-19:25:56.947 95d8 Delete type=2 #1208
+2021/07/16-19:25:56.947 95d8 Delete type=2 #1204
+2021/07/16-19:26:07.370 95ee Level-0 table #1214: started
+2021/07/16-19:26:07.474 95ee Level-0 table #1214: 6492321 bytes OK
+2021/07/16-19:26:07.477 95ee Delete type=0 #1209

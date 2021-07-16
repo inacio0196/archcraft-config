@@ -1,0 +1,6 @@
+2021/07/15-23:00:06.746 141e8 Creating DB /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.reuters.com_0.indexeddb.leveldb since it was missing.
+2021/07/15-23:00:06.753 141e8 Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.reuters.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/15-23:00:10.258 140c4 Level-0 table #5: started
+2021/07/15-23:00:10.262 140c4 Level-0 table #5: 1512 bytes OK
+2021/07/15-23:00:10.265 140c4 Delete type=0 #3
+2021/07/15-23:00:10.265 140c4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

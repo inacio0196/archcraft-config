@@ -1,0 +1,6 @@
+2021/07/05-00:15:21.810 8882 Creating DB /home/rafael/.config/google-chrome/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb since it was missing.
+2021/07/05-00:15:21.816 8882 Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/05-00:15:38.512 8872 Level-0 table #5: started
+2021/07/05-00:15:38.516 8872 Level-0 table #5: 6582 bytes OK
+2021/07/05-00:15:38.519 8872 Delete type=0 #3
+2021/07/05-00:15:38.520 8872 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+
+## Launch history clip
+lauchHistoryClip () {
+    cat ~/.zsh_history | sed 's/: [0-9]*:[0-9];//' | awk '!x[$0]++' | rofi -dmenu -sidebar-mode \
+    -modi run,drun,window \
+    -hide-scrollbar true \
+    -bw 2 \
+    -lines 12 \
+    -p "Search Clip " \
+    -padding 24 \
+    -width 60 \
+    -location 0 \
+    -font "Iosevka 11" \
+    -color-enabled true \
+    -color-window "#212B30, #212B30, #212B30" \
+    -color-normal "#212B30, #d8dee8, #212B30, #212B30, #EC407A" \
+    -color-active "#212B30, #b48ead, #212B30, #212B30, #91BEBBFF" \
+    -color-urgent "#212B30, #ebcb8b, #212B30, #212B30, #ebcb8b"
+}
+
+historyCommand=$(lauchHistoryClip)
+if [[ -z $historyCommand ]]
+then
+    exit 1
+else 
+    echo $historyCommand | xclip -selection clipboard
+    dunstify -u low -i /usr/share/icons/Archcraft/actions/32/clipboard-icon.svg "$historyCommand" "<b>copied to clipboard.</b>"
+fi

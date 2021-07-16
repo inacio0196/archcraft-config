@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+
+## rofi dir dialogs
+DIR="$HOME/.config/rofi/dialogs"
+
+lauchClipboardClip () {
+# Launch rofi with custom configuration
+greenclip print | rofi -dmenu -sidebar-mode \
+-modi run,drun,window \
+-hide-scrollbar true \
+-bw 2 \
+-lines 12 \
+-p "Search Clip " \
+-padding 24 \
+-width 60 \
+-location 0 \
+-columns 3 \
+-font "Iosevka 11" \
+-color-enabled true \
+-color-window "#212B30, #212B30, #212B30" \
+-color-normal "#212B30, #d8dee8, #212B30, #212B30, #EC407A" \
+-color-active "#212B30, #b48ead, #212B30, #212B30, #91BEBBFF" \
+-color-urgent "#212B30, #ebcb8b, #212B30, #212B30, #ebcb8b"
+}
+
+selectedClip=$(lauchClipboardClip)
+if [[ -z $selectedClip ]]
+then
+    exit 1
+else 
+    echo $selectedClip | xclip -selection clipboard
+    dunstify -u low -i /usr/share/icons/Archcraft/actions/32/clipboard-icon.svg "$selectedClip" "<b>copied to clipboard.</b>"
+fi

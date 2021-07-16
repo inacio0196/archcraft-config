@@ -1,0 +1,15 @@
+2021/07/16-16:24:50.686 5 Reusing MANIFEST /home/rafael/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2021/07/16-16:24:50.693 5 Recovering log #123
+2021/07/16-16:24:50.696 5 Reusing old log /home/rafael/.config/google-chrome/Default/Session Storage/000123.log 
+2021/07/16-18:22:02.803 41 Level-0 table #127: started
+2021/07/16-18:22:02.809 41 Level-0 table #127: 20023 bytes OK
+2021/07/16-18:22:02.816 41 Delete type=0 #123
+2021/07/16-18:22:02.817 41 Compacting 4@0 + 1@1 files
+2021/07/16-18:22:02.839 41 Generated table #128@0: 4659 keys, 92985 bytes
+2021/07/16-18:22:02.839 41 Compacted 4@0 + 1@1 files => 92985 bytes
+2021/07/16-18:22:02.844 41 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/16-18:22:02.846 41 Delete type=2 #117
+2021/07/16-18:22:02.846 41 Delete type=2 #121
+2021/07/16-18:22:02.846 41 Delete type=2 #124
+2021/07/16-18:22:02.846 41 Delete type=2 #127
+2021/07/16-18:22:02.847 41 Delete type=2 #119

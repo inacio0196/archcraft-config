@@ -1,0 +1,6 @@
+2021/07/06-01:46:33.364 213e Creating DB /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.evernote.com_0.indexeddb.leveldb since it was missing.
+2021/07/06-01:46:33.370 213e Reusing MANIFEST /home/rafael/.config/google-chrome/Default/IndexedDB/https_www.evernote.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/06-01:52:12.588 213a Level-0 table #5: started
+2021/07/06-01:52:12.617 213a Level-0 table #5: 1147445 bytes OK
+2021/07/06-01:52:12.620 213a Delete type=0 #3
+2021/07/06-01:52:12.621 271c Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
